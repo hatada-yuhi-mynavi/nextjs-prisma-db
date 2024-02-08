@@ -20,7 +20,7 @@ $ docker compose exec app npx prisma db push
 
 ### 4.access
 
-visit http://localhost:3000/
+visit http://localhost:3000/  
 ![スクリーンショット 2024-02-08 15 29 35](https://github.com/hatada-yuhi-mynavi/nextjs-prisma-db/assets/129917269/a2736374-24bc-4b42-8307-5e2235b6f715)
 
 
